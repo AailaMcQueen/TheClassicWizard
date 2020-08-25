@@ -12,7 +12,7 @@
 [<img align="left" alt="ShahRukh | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="ShahRukh | LinkedIn" width="30px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
 [<img align="left" alt="ShahRukh | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
-[<img align="left" alt="ShahRukh | Medium" width="30px" src="https://png.pngtree.com/element_our/png/20181011/facebook-social-media-icon-design-template-vector-png_127003.jpg" />][facebook]
+[<img align="left" alt="ShahRukh | Medium" width="30px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-2.png" />][facebook]
 
 <br />
 <br />
