@@ -24,7 +24,7 @@
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Cpp" width="30px" src="https://theclassicwizard.github.io/webPortfolio/img/600px-HTML5_Badge.svg.png" />
 <img align="left" alt="Cpp" width="30px" src="https://theclassicwizard.github.io/webPortfolio/img/css.png" />
-<-- <img align="left" alt="Java" width="30px" src="https://image.flaticon.com/icons/svg/226/226777.svg" /> -->
+<!-- <img align="left" alt="Java" width="30px" src="https://image.flaticon.com/icons/svg/226/226777.svg" /> -->
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
