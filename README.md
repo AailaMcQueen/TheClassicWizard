@@ -36,6 +36,7 @@
 <br />
 
 ![ShahRukh's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=theclassicwizard&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theclassicwizard&show_icons=true )]
 
 [website]: https://theclassicwizard.github.io/webPortfolio
 [twitter]: https://twitter.com/ShahRukhJadara
