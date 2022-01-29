@@ -1,18 +1,27 @@
 ### Hi there, I'm ShahRukh Khan - aka [theclassicwizard][website] 👋
 
+### Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shahrukhjadara)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shahrukhjadara)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shahrukhjadara/)
+
+I love programming, writing, sketching and traveling.  
 ## I'm a Full Stack Web Developer!
 - 🔭 I’m currently working on sharping my skills.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: I don't know. You tell me.
+- 🥅 2022 Goals: I don't know. You tell me.
 
-### Connect with me:
+</br>
 
-[<img align="left" alt="theclassicwizard.github.io" width="30px" src="https://image.flaticon.com/icons/svg/2920/2920277.svg" />][website]
-[<img align="left" alt="ShahRukh | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="ShahRukh | LinkedIn" width="30px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
-[<img align="left" alt="ShahRukh | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
-[<img align="left" alt="ShahRukh | Medium" width="30px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-2.png" />][facebook]
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theclassicwizard&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theclassicwizard&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <br />
 <br />
@@ -31,16 +40,4 @@
 <img align="left" alt="Cpp" width="30px" src="https://theclassicwizard.github.io/webPortfolio/img/jquery.png" />
 <img align="left" alt="Cpp" width="30px" src="https://theclassicwizard.github.io/webPortfolio/img/768px-Bootstrap_logo.svg.png" />
 
-<br />
-<br />
-<br />
-
-![ShahRukh's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=theclassicwizard&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theclassicwizard&show_icons=true )
-
-[website]: https://theclassicwizard.github.io/webPortfolio
-[twitter]: https://twitter.com/ShahRukhJadara
-[instagram]: https://www.instagram.com/shahrukhjadara/
-[linkedin]: https://www.linkedin.com/in/shahrukhjadara/
-[facebook]: https://facebookcom/shahrukh.jadara
 
