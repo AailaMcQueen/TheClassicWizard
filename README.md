@@ -1,4 +1,4 @@
-### Hi there, I'm ShahRukh Khan - aka [theclassicwizard][website] 👋
+### Hi there, I'm ShahRukh Khan - aka [theclassicwizard] 👋
 
 ### Connect with me
 
